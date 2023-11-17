@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
+## To do
+
+- Pages
+  - About
+  - Post
+    - card list
+  - Users
+    - grid list
+    - delete operation
+    - list operations(search, paging etc.)
+  - Login
+- Api Service
+  - Httpstatus code check
+  - Generic base response settings
+  - Global base url settings
+  - Token based proccess
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
